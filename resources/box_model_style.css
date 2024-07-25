@@ -1,0 +1,54 @@
+/*
+  white: #FFFFFF
+  accent 1: #3C7828
+  accent 2: #642878
+*/
+
+h1 {
+  color: #3C7828;
+  text-align: center;
+}
+
+th, td {
+  border: #642878 solid 4px;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #3C7828;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #642878;
+}
+
+p.cssboxmodel {
+  background-color: #3C7828;
+  color: #FFFFFF;
+  width: 500px;
+  padding: 10px;
+  border: #642878 dotted 5px;
+  margin: 10px;
+}
+
+.mydiv {
+  background-color: #3C7828;
+  width: 646px;
+  padding: 8px;
+  border: #642878 groove 5px;
+  margin: 10px;
+}
+
+body {
+  padding: 10px;
+}
+
+p, li, table {
+  font-size: 1.3em;
+}
